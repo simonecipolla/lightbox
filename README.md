@@ -3,4 +3,4 @@
 
 Documentazione
 
-[https://lokeshdhakar.com/projects/lightbox2/]
+(https://lokeshdhakar.com/projects/lightbox2/) [doc lightbox]
